@@ -1,5 +1,5 @@
 import React from 'react'
-import Setup from 'Counter'
+import Setup from './Counter'
 function App() {
   return (
     <div className='container'>
